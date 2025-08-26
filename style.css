@@ -1,0 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
+.carousel-track {
+    transition: transform 0.5s ease-in-out;
+}
